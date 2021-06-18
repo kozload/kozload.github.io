@@ -13,8 +13,8 @@ footer: Adam Kozlowski
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: svg-icon email
-    url: mailto:amv.kozlowski@gmail.com
+  - title: email
+    url: mailto:{{ amv.kozlowski@gmail.com }}
   - title: github
     url: https://github.com/kozload
 
